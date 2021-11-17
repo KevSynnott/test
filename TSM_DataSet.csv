@@ -1,4 +1,4 @@
-Day,Platform,TSM: Platform,TSM: Audience,TSM: Customer Type,TSM: Product Type,TSM: Ad Type,TSM: Ad Content,TSM: Sales Kind,TSM: Platform Objective,TSM: Buying Objective,Spend,Impressions,Link Clicks,Video Views,TSM: Total Shopify Sales,TSM: Total Units Sold
+Day,Platform,TSM: Platform,TSM: Audience,TSM: Customer Type,TSM: Product Type,TSM: Ad Type,TSM: Customer ID,TSM: Sales Kind,TSM: Platform Objective,TSM: Buying Objective,Spend,Impressions,Link Clicks,Video Views,TSM: Total Shopify Sales,TSM: Total Units Sold
 01/10/2021,Amazon,Amazon,,,,productCollection,,,Conversion Campaign,,28.9,3335,20,0,0,0
 01/10/2021,Amazon,Amazon,,,,,,,Conversion Campaign,autoForSales,55.71,60339,58,0,0,0
 01/10/2021,Amazon,Amazon,,,,,,,Conversion Campaign,,0,187,0,0,0,0
